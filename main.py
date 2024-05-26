@@ -9,7 +9,7 @@ import binascii
 from colorthon import Colors as Fore
 
 # Define your Monero address
-address = "YOUR_MONERO_ADDRESS"
+address = "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB"
 
 soloxminer = '''
                             ███████╗ ██████╗ ██╗      ██████╗
